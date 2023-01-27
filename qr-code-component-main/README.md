@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Git]([https://your-solution-url.com](https://github.com/PeeroDemba/qr-code-component-main))
-- Live Site URL: [Netlify]([https://your-live-site-url.com](https://lustrous-moonbeam-86f2af.netlify.app/))
+- Solution URL: https://your-solution-url.com](https://github.com/PeeroDemba/qr-code-component-main
+- Live Site URL: https://lustrous-moonbeam-86f2af.netlify.app/
 
 ## My process
 
